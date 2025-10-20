@@ -1,0 +1,13 @@
+claim_id,client_id,premium,claim_amount,status,claim_date,country,profit
+C001,CL001,520.5,250.0,approved,2024-05-12,France,270.5
+C002,CL002,300.0,0.0,pending,2024-06-10,Germany,300.0
+C004,CL004,850.0,400.0,approved,2024-05-21,France,450.0
+C005,CL005,450.0,150.0,approved,2024-07-03,Italy,300.0
+C006,CL006,200.0,350.0,rejected,2024-08-01,Spain,-150.0
+C007,CL007,1000.0,0.0,pending,2024-08-15,Germany,1000.0
+C009,CL009,750.0,500.0,approved,2024-09-20,Italy,250.0
+C010,CL010,400.0,300.0,approved,2024-10-02,France,100.0
+C012,CL012,620.0,0.0,pending,2024-06-15,Germany,620.0
+C013,CL013,540.0,100.0,approved,2024-07-22,France,440.0
+C014,CL014,800.0,200.0,approved,2024-08-05,Italy,600.0
+C015,CL015,250.0,400.0,rejected,2024-09-10,Spain,-150.0

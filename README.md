@@ -36,3 +36,12 @@ It uses Python, Pandas, and SQL to:
     ```
     rm -rf myvenv
     ```
+
+
+---
+- Step 1: Load CSV
+- Step 2: Validate data 
+ Replace missing or invalid numeric data
+- Step 3: Analyze profitability
+- Step 4 : Visualize
+- Step 5 : Export cleaned data to new csv 
