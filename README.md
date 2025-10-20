@@ -9,3 +9,30 @@ It uses Python, Pandas, and SQL to:
 - Calculate and analyze profitability by country.
 
 - Generate clear, auditable reports suitable for business or compliance teams.
+
+
+---
+- to create a virtual env :
+    ```
+    python -m venv myvenv
+    ```
+
+- to activate it : 
+    ```
+    source myvenv/bin/activate
+    ```
+
+- to installl packages :
+    ```
+    pip install cowsay
+    ```
+
+- to deactivate it :
+    ```
+    deactivate
+    ```
+
+-  /!\  to delete it completely  /!\ :
+    ```
+    rm -rf myvenv
+    ```
